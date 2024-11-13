@@ -1,0 +1,13 @@
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\bin\Debug\netcoreapp3.1\Assessment 1 - BlackJack.exe
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\bin\Debug\netcoreapp3.1\Assessment 1 - BlackJack.deps.json
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\bin\Debug\netcoreapp3.1\Assessment 1 - BlackJack.runtimeconfig.json
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\bin\Debug\netcoreapp3.1\Assessment 1 - BlackJack.runtimeconfig.dev.json
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\bin\Debug\netcoreapp3.1\Assessment 1 - BlackJack.dll
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\bin\Debug\netcoreapp3.1\Assessment 1 - BlackJack.pdb
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.csprojAssemblyReference.cache
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.AssemblyInfoInputs.cache
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.AssemblyInfo.cs
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.dll
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.pdb
+C:\Users\mcdma\Desktop\Documents\Marks Course\Semester 3\OOP\BlackJack\Assessment 1 - BlackJack\Assessment 1 - BlackJack\obj\Debug\netcoreapp3.1\Assessment 1 - BlackJack.genruntimeconfig.cache
